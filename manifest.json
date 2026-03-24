@@ -4,6 +4,6 @@
   "version": "2.0.0",
   "minAppVersion": "1.0.0",
   "description": "Open any markdown note as a Kanban board. Per-page config saved as hidden comment.",
-  "author": "Claude",
+  "author": "Andrew Sondey",
   "isDesktopOnly": false
 }
